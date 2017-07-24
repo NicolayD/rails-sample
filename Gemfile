@@ -32,6 +32,12 @@ gem 'bootstrap-sass', '3.3.7'
 
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
 
+gem 'faker',          '1.7.3'
+
+gem 'will_paginate',           '3.1.5'
+
+gem 'bootstrap-will_paginate', '1.0.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
